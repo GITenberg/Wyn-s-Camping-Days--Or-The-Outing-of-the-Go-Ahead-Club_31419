@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26286'
     url: http://www.gutenberg.org/2009/agents/26286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31419#Wyn-s-Camping-Days--Or-The-Outing-of-the-Go-Ahead-Club
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
 identifiers:
