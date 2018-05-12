@@ -1,0 +1,26 @@
+_repo: Wyn-s-Camping-Days--Or-The-Outing-of-the-Go-Ahead-Club_31419
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31419-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marlowe, Amy Bell
+    gutenberg_agent_id: '26286'
+    url: http://www.gutenberg.org/2009/agents/26286
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Campers (Persons) -- Juvenile fiction'
+title: Wyn's Camping Days; Or, The Outing of the Go-Ahead Club
+url: http://www.gutenberg.org/ebooks/31419
